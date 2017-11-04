@@ -1,0 +1,10 @@
+C:\Users\Samira\Desktop\CSHARP\know_session\bin\Debug\netcoreapp2.0\know_session.deps.json
+C:\Users\Samira\Desktop\CSHARP\know_session\bin\Debug\netcoreapp2.0\know_session.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\know_session\bin\Debug\netcoreapp2.0\know_session.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\know_session\bin\Debug\netcoreapp2.0\know_session.dll
+C:\Users\Samira\Desktop\CSHARP\know_session\bin\Debug\netcoreapp2.0\know_session.pdb
+C:\Users\Samira\Desktop\CSHARP\know_session\obj\Debug\netcoreapp2.0\know_session.csproj.CoreCompileInputs.cache
+C:\Users\Samira\Desktop\CSHARP\know_session\obj\Debug\netcoreapp2.0\know_session.AssemblyInfoInputs.cache
+C:\Users\Samira\Desktop\CSHARP\know_session\obj\Debug\netcoreapp2.0\know_session.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\know_session\obj\Debug\netcoreapp2.0\know_session.dll
+C:\Users\Samira\Desktop\CSHARP\know_session\obj\Debug\netcoreapp2.0\know_session.pdb

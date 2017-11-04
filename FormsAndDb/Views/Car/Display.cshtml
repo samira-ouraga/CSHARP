@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h2>Results from form submission</h2>
+
+<p>Your cars are here</p>
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Make</th>
+    </tr>
+@{
+    foreach(var car in ViewBag.Allmycars){
+        <tr>
+            <td>@car["name"]</td>
+            <td>@car["make"]</td>
+        </tr>
+    }
+}
+</table>

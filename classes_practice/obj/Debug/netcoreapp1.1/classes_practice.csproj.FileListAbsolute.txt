@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\CSHARP\classes_practice\bin\Debug\netcoreapp1.1\classes_practice.deps.json
+C:\Users\Samira\Desktop\CSHARP\classes_practice\bin\Debug\netcoreapp1.1\classes_practice.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\classes_practice\bin\Debug\netcoreapp1.1\classes_practice.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\classes_practice\bin\Debug\netcoreapp1.1\classes_practice.dll
+C:\Users\Samira\Desktop\CSHARP\classes_practice\bin\Debug\netcoreapp1.1\classes_practice.pdb
+C:\Users\Samira\Desktop\CSHARP\classes_practice\obj\Debug\netcoreapp1.1\classes_practice.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\classes_practice\obj\Debug\netcoreapp1.1\classes_practice.dll
+C:\Users\Samira\Desktop\CSHARP\classes_practice\obj\Debug\netcoreapp1.1\classes_practice.pdb

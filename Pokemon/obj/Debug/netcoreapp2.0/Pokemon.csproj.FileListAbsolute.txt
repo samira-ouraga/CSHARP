@@ -1,0 +1,10 @@
+c:\Users\Samira\Desktop\CSHARP\Pokemon\bin\Debug\netcoreapp2.0\Pokemon.deps.json
+c:\Users\Samira\Desktop\CSHARP\Pokemon\bin\Debug\netcoreapp2.0\Pokemon.runtimeconfig.json
+c:\Users\Samira\Desktop\CSHARP\Pokemon\bin\Debug\netcoreapp2.0\Pokemon.runtimeconfig.dev.json
+c:\Users\Samira\Desktop\CSHARP\Pokemon\bin\Debug\netcoreapp2.0\Pokemon.dll
+c:\Users\Samira\Desktop\CSHARP\Pokemon\bin\Debug\netcoreapp2.0\Pokemon.pdb
+c:\Users\Samira\Desktop\CSHARP\Pokemon\obj\Debug\netcoreapp2.0\Pokemon.csproj.CoreCompileInputs.cache
+c:\Users\Samira\Desktop\CSHARP\Pokemon\obj\Debug\netcoreapp2.0\Pokemon.AssemblyInfoInputs.cache
+c:\Users\Samira\Desktop\CSHARP\Pokemon\obj\Debug\netcoreapp2.0\Pokemon.AssemblyInfo.cs
+c:\Users\Samira\Desktop\CSHARP\Pokemon\obj\Debug\netcoreapp2.0\Pokemon.dll
+c:\Users\Samira\Desktop\CSHARP\Pokemon\obj\Debug\netcoreapp2.0\Pokemon.pdb

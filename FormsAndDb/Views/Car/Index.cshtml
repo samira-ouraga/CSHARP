@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Fill out this form </p>
+
+<div class="box-div">
+            <form action="/Process" method="post">
+                <div class="element-group">
+                    <label for="Name">Your Car:</label>
+                    <input type="text" name="Name"/>
+                </div>
+                <div class="element-group">
+                    <label for="Make">Make:</label>
+                    <input type="text" name="Make" />
+                </div>
+
+                <button type="submit">Submit</button>
+            </form>
+        </div>

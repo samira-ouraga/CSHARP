@@ -1,0 +1,10 @@
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\bin\Debug\netcoreapp2.0\RazorPagesLogReg.deps.json
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\bin\Debug\netcoreapp2.0\RazorPagesLogReg.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\bin\Debug\netcoreapp2.0\RazorPagesLogReg.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\bin\Debug\netcoreapp2.0\RazorPagesLogReg.dll
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\bin\Debug\netcoreapp2.0\RazorPagesLogReg.pdb
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\obj\Debug\netcoreapp2.0\RazorPagesLogReg.csproj.CoreCompileInputs.cache
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\obj\Debug\netcoreapp2.0\RazorPagesLogReg.AssemblyInfoInputs.cache
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\obj\Debug\netcoreapp2.0\RazorPagesLogReg.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\obj\Debug\netcoreapp2.0\RazorPagesLogReg.dll
+C:\Users\Samira\Desktop\CSHARP\RazorPagesLogReg\obj\Debug\netcoreapp2.0\RazorPagesLogReg.pdb

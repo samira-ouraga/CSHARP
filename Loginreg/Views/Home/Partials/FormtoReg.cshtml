@@ -1,0 +1,27 @@
+<!-- line 2 is project models name of class used , the form action calls for the specific function in controlla -->
+@model Loginreg.Models.RegisterForm
+<h1>Register</h1>
+<form asp-controller="Home" asp-action="Register"  method="post">
+    <div class="form-group">
+        <span asp-validation-for="Name"></span>
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+    </div>
+    
+    <div class="form-group">
+        <span asp-validation-for="Email"></span>
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="Password"></span>
+        <label asp-for="Password"></label>
+        <input class="form-control" asp-for="Password">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="Confirm"></span>
+        <label asp-for="Confirm"></label>
+        <input class="form-control" asp-for="Confirm">
+    </div>
+    <input type="submit" value="Submit">
+</form>

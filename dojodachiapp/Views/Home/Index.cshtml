@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<p>DOJODACHI GAME!!!</p>
+
+<h3>Fullness:@ViewBag.Dojodachi.Fullness</h3>
+<h3>Happiness: @ViewBag.Dojodachi.Happiness</h3> 
+<h3>Meals: @ViewBag.Dojodachi.Meals</h3>
+<h3>Energy: @ViewBag.Dojodachi.Energy</h3>
+
+<div id="box">
+    <div id="reaction"></div>
+            <span>@ViewBag.Reaction</span>
+        
+            <span>@ViewBag.Message</span>
+    </div>
+</div>
+
+<!-- all actions are doen throguh form -->
+ <div class="actionsplay">
+ @{
+            if(ViewBag.GameStatus == "running")
+            {
+               
+                <form action="/performAction" method="post">
+                    <input type="hidden" value="feed" name="action">
+                    <button type="submit">Feed</button>
+                </form>
+                <form action="/performAction" method="post">
+                    <input type="hidden" value="play" name="action">
+                    <button type="submit">Play</button>
+                </form>
+                <form action="/performAction" method="post">
+                    <input type="hidden" value="work" name="action">
+                    <button type="submit">Work</button>
+                </form>
+                <form action="/performAction" method="post">
+                    <input type="hidden" value="sleep" name="action">
+                    <button type="submit">Sleep</button>
+                </form>
+            }
+            else if(ViewBag.GameStatus == "over")
+            {
+                    <a href="/reset" method="post"><button>Reset?</button></a>
+            }
+}
+</div>
+

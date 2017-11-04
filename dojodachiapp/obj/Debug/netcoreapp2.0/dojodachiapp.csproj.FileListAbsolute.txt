@@ -1,0 +1,10 @@
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\obj\Debug\netcoreapp2.0\dojodachiapp.csproj.CoreCompileInputs.cache
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\obj\Debug\netcoreapp2.0\dojodachiapp.AssemblyInfoInputs.cache
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\obj\Debug\netcoreapp2.0\dojodachiapp.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\bin\Debug\netcoreapp2.0\dojodachiapp.deps.json
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\bin\Debug\netcoreapp2.0\dojodachiapp.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\bin\Debug\netcoreapp2.0\dojodachiapp.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\bin\Debug\netcoreapp2.0\dojodachiapp.dll
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\bin\Debug\netcoreapp2.0\dojodachiapp.pdb
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\obj\Debug\netcoreapp2.0\dojodachiapp.dll
+C:\Users\Samira\Desktop\CSHARP\dojodachiapp\obj\Debug\netcoreapp2.0\dojodachiapp.pdb

@@ -1,0 +1,8 @@
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\bin\Debug\netcoreapp1.1\learn_webASP.deps.json
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\bin\Debug\netcoreapp1.1\learn_webASP.runtimeconfig.json
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\bin\Debug\netcoreapp1.1\learn_webASP.runtimeconfig.dev.json
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\bin\Debug\netcoreapp1.1\learn_webASP.dll
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\bin\Debug\netcoreapp1.1\learn_webASP.pdb
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\obj\Debug\netcoreapp1.1\learn_webASP.AssemblyInfo.cs
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\obj\Debug\netcoreapp1.1\learn_webASP.dll
+c:\Users\Samira\Desktop\CSHARP\learn_webASP\obj\Debug\netcoreapp1.1\learn_webASP.pdb

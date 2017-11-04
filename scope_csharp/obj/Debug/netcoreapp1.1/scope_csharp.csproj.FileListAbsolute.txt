@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\bin\Debug\netcoreapp1.1\scope_csharp.deps.json
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\bin\Debug\netcoreapp1.1\scope_csharp.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\bin\Debug\netcoreapp1.1\scope_csharp.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\bin\Debug\netcoreapp1.1\scope_csharp.dll
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\bin\Debug\netcoreapp1.1\scope_csharp.pdb
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\obj\Debug\netcoreapp1.1\scope_csharp.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\obj\Debug\netcoreapp1.1\scope_csharp.dll
+C:\Users\Samira\Desktop\CSHARP\scope_csharp\obj\Debug\netcoreapp1.1\scope_csharp.pdb

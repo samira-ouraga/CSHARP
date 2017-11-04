@@ -1,0 +1,4 @@
+C:\Users\Samira\Desktop\CSHARP\know_inheritance\bin\Debug\netcoreapp1.1\know_inheritance.deps.json
+C:\Users\Samira\Desktop\CSHARP\know_inheritance\bin\Debug\netcoreapp1.1\know_inheritance.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\know_inheritance\bin\Debug\netcoreapp1.1\know_inheritance.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\know_inheritance\obj\Debug\netcoreapp1.1\know_inheritance.AssemblyInfo.cs

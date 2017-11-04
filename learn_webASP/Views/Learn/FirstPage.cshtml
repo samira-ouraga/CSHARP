@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+       
+    </head>
+    <body>
+        <h1 >second page</h1>
+        <ul>
+            @for (int i = 0; i < (int)ViewData["NumTimes"]; i++)
+            {
+                <li>@ViewData["Message"]</li>
+            }
+        </ul>
+        <!-- how to add a form -->
+        <form action="method" method="post">
+            <input type="text" name="TextField"/>
+            <input type="number" step="1" name="NumberField"/>
+            <button type="submit">Submit</button>
+        </form>
+
+        <!--- how to display element from block of code in html
+        @{
+            var StringList = new List<string>{
+                                    "one",
+                                    "two",
+                                    "three",
+                                    "four"
+                                };
+            
+            foreach(var word in StringList)
+            {
+                // We can render HTML from within C# code!
+                <p>@word</p>
+            }
+        }
+        -->
+    </body>
+</html>

@@ -1,0 +1,10 @@
+c:\Users\Samira\Desktop\CSHARP\Loginreg\bin\Debug\netcoreapp2.0\Loginreg.deps.json
+c:\Users\Samira\Desktop\CSHARP\Loginreg\bin\Debug\netcoreapp2.0\Loginreg.runtimeconfig.json
+c:\Users\Samira\Desktop\CSHARP\Loginreg\bin\Debug\netcoreapp2.0\Loginreg.runtimeconfig.dev.json
+c:\Users\Samira\Desktop\CSHARP\Loginreg\bin\Debug\netcoreapp2.0\Loginreg.dll
+c:\Users\Samira\Desktop\CSHARP\Loginreg\bin\Debug\netcoreapp2.0\Loginreg.pdb
+c:\Users\Samira\Desktop\CSHARP\Loginreg\obj\Debug\netcoreapp2.0\Loginreg.csproj.CoreCompileInputs.cache
+c:\Users\Samira\Desktop\CSHARP\Loginreg\obj\Debug\netcoreapp2.0\Loginreg.AssemblyInfoInputs.cache
+c:\Users\Samira\Desktop\CSHARP\Loginreg\obj\Debug\netcoreapp2.0\Loginreg.AssemblyInfo.cs
+c:\Users\Samira\Desktop\CSHARP\Loginreg\obj\Debug\netcoreapp2.0\Loginreg.dll
+c:\Users\Samira\Desktop\CSHARP\Loginreg\obj\Debug\netcoreapp2.0\Loginreg.pdb

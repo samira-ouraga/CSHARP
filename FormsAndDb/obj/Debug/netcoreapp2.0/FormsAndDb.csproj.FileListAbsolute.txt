@@ -1,0 +1,10 @@
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\bin\Debug\netcoreapp2.0\FormsAndDb.deps.json
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\bin\Debug\netcoreapp2.0\FormsAndDb.runtimeconfig.json
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\bin\Debug\netcoreapp2.0\FormsAndDb.runtimeconfig.dev.json
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\bin\Debug\netcoreapp2.0\FormsAndDb.dll
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\bin\Debug\netcoreapp2.0\FormsAndDb.pdb
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\obj\Debug\netcoreapp2.0\FormsAndDb.csproj.CoreCompileInputs.cache
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\obj\Debug\netcoreapp2.0\FormsAndDb.AssemblyInfoInputs.cache
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\obj\Debug\netcoreapp2.0\FormsAndDb.AssemblyInfo.cs
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\obj\Debug\netcoreapp2.0\FormsAndDb.dll
+c:\Users\Samira\Desktop\CSHARP\FormsAndDb\obj\Debug\netcoreapp2.0\FormsAndDb.pdb

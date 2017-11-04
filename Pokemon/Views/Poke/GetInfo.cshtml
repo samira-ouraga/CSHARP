@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>Grab Poke Info</p>
+
+<div>
+    <h1>@ViewBag.Pokeinfo.Name</h1>
+    <h3>Types:</h3>
+    <ul>
+    @foreach( var type in @ViewBag.Pokeinfo.Types)
+    {
+        <li>@type</li>
+    }
+    </ul>
+    <h3>Height: @ViewBag.Pokeinfo.Height</h3>
+    <h3>Weight: @ViewBag.Pokeinfo.Weight</h3>
+</div>

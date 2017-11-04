@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\collections-csharp\bin\Debug\netcoreapp1.1\collections-csharp.deps.json
+C:\Users\Samira\Desktop\collections-csharp\bin\Debug\netcoreapp1.1\collections-csharp.runtimeconfig.json
+C:\Users\Samira\Desktop\collections-csharp\bin\Debug\netcoreapp1.1\collections-csharp.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\collections-csharp\bin\Debug\netcoreapp1.1\collections-csharp.dll
+C:\Users\Samira\Desktop\collections-csharp\bin\Debug\netcoreapp1.1\collections-csharp.pdb
+C:\Users\Samira\Desktop\collections-csharp\obj\Debug\netcoreapp1.1\collections-csharp.AssemblyInfo.cs
+C:\Users\Samira\Desktop\collections-csharp\obj\Debug\netcoreapp1.1\collections-csharp.dll
+C:\Users\Samira\Desktop\collections-csharp\obj\Debug\netcoreapp1.1\collections-csharp.pdb

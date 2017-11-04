@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Movie List";
+}
+
+<h2>My Movie List</h2>
+
+<p>Hello from our View Template!</p>
+    @{
+        DateTime CurrentTime = DateTime.Now;
+        
+            // We can render HTML from within C# code!
+            <h3>The date and time :</h3>
+            <p>@CurrentTime</p>
+        
+    }

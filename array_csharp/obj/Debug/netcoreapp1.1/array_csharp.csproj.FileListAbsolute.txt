@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\array_csharp\bin\Debug\netcoreapp1.1\array_csharp.deps.json
+C:\Users\Samira\Desktop\array_csharp\bin\Debug\netcoreapp1.1\array_csharp.runtimeconfig.json
+C:\Users\Samira\Desktop\array_csharp\bin\Debug\netcoreapp1.1\array_csharp.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\array_csharp\bin\Debug\netcoreapp1.1\array_csharp.dll
+C:\Users\Samira\Desktop\array_csharp\bin\Debug\netcoreapp1.1\array_csharp.pdb
+C:\Users\Samira\Desktop\array_csharp\obj\Debug\netcoreapp1.1\array_csharp.AssemblyInfo.cs
+C:\Users\Samira\Desktop\array_csharp\obj\Debug\netcoreapp1.1\array_csharp.dll
+C:\Users\Samira\Desktop\array_csharp\obj\Debug\netcoreapp1.1\array_csharp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\oop_csharp\bin\Debug\netcoreapp1.1\oop_csharp.deps.json
+C:\Users\Samira\Desktop\oop_csharp\bin\Debug\netcoreapp1.1\oop_csharp.runtimeconfig.json
+C:\Users\Samira\Desktop\oop_csharp\bin\Debug\netcoreapp1.1\oop_csharp.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\oop_csharp\bin\Debug\netcoreapp1.1\oop_csharp.dll
+C:\Users\Samira\Desktop\oop_csharp\bin\Debug\netcoreapp1.1\oop_csharp.pdb
+C:\Users\Samira\Desktop\oop_csharp\obj\Debug\netcoreapp1.1\oop_csharp.AssemblyInfo.cs
+C:\Users\Samira\Desktop\oop_csharp\obj\Debug\netcoreapp1.1\oop_csharp.dll
+C:\Users\Samira\Desktop\oop_csharp\obj\Debug\netcoreapp1.1\oop_csharp.pdb

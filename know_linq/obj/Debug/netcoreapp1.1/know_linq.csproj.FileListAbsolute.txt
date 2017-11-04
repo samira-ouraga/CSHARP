@@ -1,0 +1,8 @@
+C:\Users\Samira\Desktop\CSHARP\know_linq\bin\Debug\netcoreapp1.1\know_linq.deps.json
+C:\Users\Samira\Desktop\CSHARP\know_linq\bin\Debug\netcoreapp1.1\know_linq.runtimeconfig.json
+C:\Users\Samira\Desktop\CSHARP\know_linq\bin\Debug\netcoreapp1.1\know_linq.runtimeconfig.dev.json
+C:\Users\Samira\Desktop\CSHARP\know_linq\bin\Debug\netcoreapp1.1\know_linq.dll
+C:\Users\Samira\Desktop\CSHARP\know_linq\bin\Debug\netcoreapp1.1\know_linq.pdb
+C:\Users\Samira\Desktop\CSHARP\know_linq\obj\Debug\netcoreapp1.1\know_linq.AssemblyInfo.cs
+C:\Users\Samira\Desktop\CSHARP\know_linq\obj\Debug\netcoreapp1.1\know_linq.dll
+C:\Users\Samira\Desktop\CSHARP\know_linq\obj\Debug\netcoreapp1.1\know_linq.pdb
